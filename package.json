@@ -1,0 +1,12 @@
+{
+  "name": "change-recorder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "CC-BY-SA-4.0",
+  "dependencies": {
+    "fswatch": "^0.1.4",
+    "minimist": "^1.2.0",
+    "rsync": "^0.6.1",
+    "simple-git": "^1.107.0"
+  }
+}
